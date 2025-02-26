@@ -18,20 +18,7 @@ Unlike alternative data-over-audio solution, which work only in quiet environmen
 # Who’s using CUE Audio's library?
 ###### CUE Audio have been enjoyed by over 5,000,000 users across three continents. Past and current clients include:
 
-![Disney](https://d253ypm2x51cw3.cloudfront.net/jpegs/logos/cue-partner-disney.jpg "Disney")
-![NCAA](https://d253ypm2x51cw3.cloudfront.net/jpegs/logos/cue-partner-ncaa.jpg "NCAA")
-![Nissan](https://d253ypm2x51cw3.cloudfront.net/jpegs/logos/cue-partner-nissan.jpg "Nissan")
-![Berkshire Hathaway](https://d253ypm2x51cw3.cloudfront.net/jpegs/logos/cue-partner-berkshire.jpg "Berkshire Hathaway")
-
-![Coca Cola](https://d253ypm2x51cw3.cloudfront.net/jpegs/logos/cue-partner-coke.jpg)
-![Genoa Healthcare](https://d253ypm2x51cw3.cloudfront.net/jpegs/logos/cue-partner-genoa.jpg)
-![Purdue University](https://d253ypm2x51cw3.cloudfront.net/jpegs/logos/cue-partner-purdue.jpg)
-![UNC](https://d253ypm2x51cw3.cloudfront.net/jpegs/logos/cue-partner-unc.jpg)
-
-![Clemson](https://d253ypm2x51cw3.cloudfront.net/jpegs/logos/cue-partner-clemson.jpg)
-![Daktronics](https://d253ypm2x51cw3.cloudfront.net/jpegs/logos/cue-partner-daktronics.jpg)
-![Edmonton Oilers](https://d253ypm2x51cw3.cloudfront.net/jpegs/logos/cue-partner-oilers.jpg)
-![Sherwin Williams](https://d253ypm2x51cw3.cloudfront.net/jpegs/logos/cue-partner-sherwinwilliams.jpg)
+<img width="1237" alt="Screenshot 2025-02-26 at 7 55 25 AM" src="https://github.com/user-attachments/assets/17b1db17-4e55-4a26-914e-fd248b297834" />
 
 # Technical Overview
 [See PDF here](./doc/cue-technical-overview.pdf)
